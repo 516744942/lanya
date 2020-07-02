@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/functionPage/functionPage",
+    "pages/about/about",
+    "pages/gift/gift",
+    "pages/gifttwo/gifttwo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#179B16",
+    "navigationBarTitleText": "小程序蓝牙调试工具",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#F8F8F8"
+  }
+}

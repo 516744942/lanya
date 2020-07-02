@@ -1,0 +1,3 @@
+ <view class="plate-btn-wrap" bindtap="startRollTap">
+        <image src='/images/start@3x.png' class='start-img'></image>
+      </view>
